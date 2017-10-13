@@ -17,6 +17,7 @@ git status
 git add .
 git commit -m 'hjskjdf'
 git push origin master
-
 git pull origin master 
 git clone url
+wo 
+
