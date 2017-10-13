@@ -1,0 +1,6 @@
+git 
+远程仓库
+  待提交【缓存区暂存区】
+本地仓库
+git config --global user.name "w3c"
+git config --global user.email w3c@w3cschool.cn
