@@ -4,3 +4,14 @@ git
 本地仓库
 git config --global user.name "w3c"
 git config --global user.email w3c@w3cschool.cn
+
+建立远程仓库 仓库名和项目名一致
+
+git init
+git add .
+git commit -m 'kkkkkk'
+git remote add origin url地址
+git push -u origin master
+[需要输入用户名和密码]
+git status
+
