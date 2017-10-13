@@ -13,5 +13,8 @@ git commit -m 'kkkkkk'
 git remote add origin url地址
 git push -u origin master
 [需要输入用户名和密码]
-git status
+git status 
+git add .
+git commit -m 'hjskjdf'
+git push origin master
 
